@@ -1,0 +1,5 @@
+Hello
+My name is Mike
+
+I am 22 years old; 
+ data from file.txt: fdgfdgfdgdfgfggdf
